@@ -4,4 +4,4 @@ function reverseString(str) {
   let joinArray = reverseArray.join("");
   return joinArray;
 }
-reverseString("Hello, world")
+console.log(reverseString("Hello, world"));
